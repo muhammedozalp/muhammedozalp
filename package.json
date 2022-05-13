@@ -1,0 +1,15 @@
+{
+  "name": "muhammedozalp",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "https://github.com/muhammedozalp/muhammedozalp.git",
+  "author": "mozalp <muhammed@repar.com>",
+  "license": "MIT",
+  "homepage": "https://muhammedozalp.github.io/muhammedozalp",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  }
+}
